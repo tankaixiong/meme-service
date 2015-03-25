@@ -1,0 +1,14 @@
+E:\eclipse-workspace\service\src\main\java\tank\service\ISettingService.java
+E:\eclipse-workspace\service\src\main\java\tank\repository\common\GeneralRepository.java
+E:\eclipse-workspace\service\src\main\java\tank\repository\ISettingRepository.java
+E:\eclipse-workspace\service\src\main\java\tank\handler\RegisterHandler.java
+E:\eclipse-workspace\service\src\main\java\tank\constant\HandlerType.java
+E:\eclipse-workspace\service\src\main\java\tank\repository\impl\UserImpl.java
+E:\eclipse-workspace\service\src\main\java\tank\handler\SettingHandler.java
+E:\eclipse-workspace\service\src\main\java\tank\repository\common\IGeneralRepository.java
+E:\eclipse-workspace\service\src\main\java\tank\handler\LoginHandler.java
+E:\eclipse-workspace\service\src\main\java\tank\service\impl\SettingServiceImpl.java
+E:\eclipse-workspace\service\src\main\java\tank\service\IUserService.java
+E:\eclipse-workspace\service\src\main\java\tank\service\impl\UserServiceImpl.java
+E:\eclipse-workspace\service\src\main\java\tank\repository\IUserRepository.java
+E:\eclipse-workspace\service\src\main\java\tank\repository\impl\SettingRepository.java

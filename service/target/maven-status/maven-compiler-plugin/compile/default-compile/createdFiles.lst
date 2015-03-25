@@ -1,0 +1,14 @@
+tank\service\impl\SettingServiceImpl.class
+tank\constant\HandlerType.class
+tank\repository\common\GeneralRepository.class
+tank\repository\impl\SettingRepository.class
+tank\service\ISettingService.class
+tank\repository\IUserRepository.class
+tank\repository\common\IGeneralRepository.class
+tank\handler\SettingHandler.class
+tank\repository\impl\UserImpl.class
+tank\service\IUserService.class
+tank\handler\RegisterHandler.class
+tank\service\impl\UserServiceImpl.class
+tank\repository\ISettingRepository.class
+tank\handler\LoginHandler.class
